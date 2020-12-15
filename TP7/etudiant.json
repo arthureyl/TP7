@@ -1,0 +1,14 @@
+{
+  "Etudiant": [
+    {
+      "firstname": "value1",
+      "lastname": "value2",
+      "year_diploma":  ""
+    },
+    {
+      "firstname": "value1",
+      "lastname": "value2",
+      "year_diploma": ""
+    }
+  ]
+}
